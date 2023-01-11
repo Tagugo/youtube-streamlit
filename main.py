@@ -1,7 +1,7 @@
 import streamlit as st
 import time
  
-st.title('streamlit 超入門')
+st.title('Goのホームページ')
 st.write('プログレスバーの表示')
 'Start!!'
  
